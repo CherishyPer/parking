@@ -1,0 +1,9 @@
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/service/common/AbstractService.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/dao/IUserDao.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/model/User.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/controller/UserController.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/dao/common/AbstractHibernateDao.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/service/IUserService.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/dao/common/IOperations.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/dao/impl/UserDao.java
+/home/wenfeng/base/wp/webwp/parking/src/main/java/com/tc/pp/service/impl/UserService.java
